@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Buy groceries",
+        "status": "Pending"
+    },
+    {
+        "title": "Finish Python project",
+        "status": "Completed"
+    },
+    {
+        "title": "Read 20 pages of a book",
+        "status": "Pending"
+    },
+    {
+        "title": "AI Learning",
+        "status": "Pending"
+    }
+]
